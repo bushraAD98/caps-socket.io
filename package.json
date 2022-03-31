@@ -1,0 +1,29 @@
+{
+  "name": "caps-socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caps.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bushraAD98/caps-socket.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bushraAD98/caps-socket.io/issues"
+  },
+  "homepage": "https://github.com/bushraAD98/caps-socket.io#readme",
+  "dependencies": {
+    "@faker-js/faker": "^6.1.1",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
